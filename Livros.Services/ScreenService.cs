@@ -89,7 +89,7 @@ public sealed class ScreenService
         void ListaAutor()
         {
             operacoes.ListaAutor();
-            Thread.Sleep(300);
+            Thread.Sleep(400);
             MenuAutorOptions(operacoes);
         }
     }
